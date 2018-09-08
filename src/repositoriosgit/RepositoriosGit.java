@@ -18,7 +18,7 @@ public class RepositoriosGit {
         // TODO code application logic here
         System.out.println("Prueba iniciando git");
         System.out.println("Prueba subiendo");
-        System.out.println("Nueva prueba");
+        System.out.println("Nueva prueba  ");
     }
     
 }
